@@ -24,4 +24,10 @@ object roque {
 		pupilo.haceLoQueQuieras()
 		})
 	}
+	method pupilosCapacesDeVolar(unosKms){
+		pupilos.filter({ 
+			pupilo => pupilo.puedeVolar(unosKms)
+		})
+	}
 }
+//25/04

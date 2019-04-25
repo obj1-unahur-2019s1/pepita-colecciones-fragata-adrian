@@ -36,4 +36,4 @@ object pipa {
 	method acumuladoKmsRecorridos() { return acumuladoKmsRecorridos }
 	method acumuladoGramosIngeridos() { return acumuladoGramosIngeridos }
 	method puedeVolar(unosKms){ return true }
-}
+}//25/04

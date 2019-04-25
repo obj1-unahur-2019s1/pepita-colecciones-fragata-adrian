@@ -26,4 +26,4 @@ object pepita {
 		} 
 	}
 	method puedeVolar(unosKms){ return energia >= 10 + unosKms }
-}
+}//25/04
